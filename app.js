@@ -1,4 +1,4 @@
-// First way of accessing an element
+// First way of accessing an element:
 console.log(document)
 
-// Second way of accessing an element
+// Second way of accessing an element:
