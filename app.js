@@ -2,4 +2,4 @@
 console.log(document.querySelector('#title'));
 
 // Second way of accessing an element:
-document.getElementById('title')
+console.log(document.getElementById('title'))
