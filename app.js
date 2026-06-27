@@ -1,4 +1,4 @@
 // First way of accessing an element:
-document.
+document.querySelector('')
 
 // Second way of accessing an element:
